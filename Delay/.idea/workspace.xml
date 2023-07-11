@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ce6eb4d-17fb-4b30-a95d-8e1531dca7d1" name="Changes" comment="" />
+    <list default="true" id="3ce6eb4d-17fb-4b30-a95d-8e1531dca7d1" name="Changes" comment="excel graph added.">
+      <change beforePath="$PROJECT_DIR$/../Database Fixed/database-fixed-tests/database-fixed-results.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Database Fixed/database-fixed-tests/database-fixed-results.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database Fixed/database-fixed-tests/~$database-fixed-results.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database/database-test/database-results.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Database/database-test/database-results.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/delay-test/delay-results.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/delay-test/delay-results.xlsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="2SR7hwvyWVjCjsF6Snc4bROZ0HW" />
   <component name="ProjectViewState">
@@ -14,7 +22,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "/Users/sarthak.sonagara/Desktop/FINAL PROJECT/Delay"
   }
 }]]></component>
